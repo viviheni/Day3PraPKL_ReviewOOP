@@ -45,7 +45,7 @@
                     <thead>
                         <tr>
                         <th scope="col">Nomor</th>
-                        <th scope="col">NIK</th>
+                        <th scope="col">NIP</th>
                         <th scope="col">Nama Sekolah</th>
                         <th scope="col">Alamat Rumah</th>
                         <th scope="col">Action</th>
